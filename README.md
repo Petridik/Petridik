@@ -10,10 +10,5 @@ I'm currently in a 5-year Integrated Master's degree equivalent to 300 ECTS. I a
   
 • **Tools**: MATLAB, Unix CLI
 
-
-
-
-
-
 Connect with me:
 • [Linkedin Profile](https://www.linkedin.com/in/konstantinos-petridis-4233812a7/)
